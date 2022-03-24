@@ -339,7 +339,7 @@ border: none;
 }
 .contact-us input,textarea{
     padding: 10px;
-    width: 32%;
+    /* width: 32%; */
     border: 2px solid #C6C6C6;
     border-radius: 5px;
 
@@ -408,6 +408,13 @@ border: none;
 }
 .be-developer{
     color: #1EB2A6;
-    
+
 }
+.t{
+    /* padding-right:45%;  */
+    width:90vw;
+
+}
+
+
 /* <!-- footer section end --> */
